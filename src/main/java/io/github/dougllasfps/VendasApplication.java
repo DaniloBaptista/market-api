@@ -40,7 +40,7 @@ public class VendasApplication {
 
             pedidos.findByCliente(fulano).forEach(System.out::println);
 
-
+            //789456
 
         };
     }
