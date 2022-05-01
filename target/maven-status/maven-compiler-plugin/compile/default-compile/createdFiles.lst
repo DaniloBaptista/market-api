@@ -1,0 +1,9 @@
+io\github\dougllasfps\domain\entity\Pedido.class
+io\github\dougllasfps\domain\repository\Produtos.class
+io\github\dougllasfps\VendasApplication.class
+io\github\dougllasfps\domain\entity\Produto.class
+io\github\dougllasfps\domain\repository\Pedidos.class
+io\github\dougllasfps\domain\repository\Clientes.class
+io\github\dougllasfps\domain\entity\ItemPedido.class
+io\github\dougllasfps\domain\entity\Cliente.class
+io\github\dougllasfps\domain\repository\ItemsPedido.class
